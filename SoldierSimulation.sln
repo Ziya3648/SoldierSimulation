@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoldierSimulation", "SoldierSimulation\SoldierSimulation.csproj", "{F5BB7887-324A-45D7-84FA-AB141CD93C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{AAD4B46B-D0DD-476D-907C-CA2BDBEE4B55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BB7887-324A-45D7-84FA-AB141CD93C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB7887-324A-45D7-84FA-AB141CD93C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB7887-324A-45D7-84FA-AB141CD93C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB7887-324A-45D7-84FA-AB141CD93C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD4B46B-D0DD-476D-907C-CA2BDBEE4B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD4B46B-D0DD-476D-907C-CA2BDBEE4B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD4B46B-D0DD-476D-907C-CA2BDBEE4B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD4B46B-D0DD-476D-907C-CA2BDBEE4B55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F95024-F2F7-4B8F-B9ED-A2A96A7EE1B3}
+	EndGlobalSection
+EndGlobal
